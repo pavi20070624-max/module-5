@@ -39,6 +39,7 @@ int main() {
 ```
 ## OUTPUT
 		       	
+<img width="355" height="184" alt="image" src="https://github.com/user-attachments/assets/4b8fe66b-a417-4744-aab8-0683f2934222" />
 
 
 ## RESULT
@@ -97,6 +98,7 @@ int main() {
 
 ## OUTPUT
 
+<img width="383" height="177" alt="image" src="https://github.com/user-attachments/assets/70a563d8-842d-4735-a03d-eae984b111d1" />
 
 
 ## RESULT
@@ -155,6 +157,7 @@ int main() {
 
 
 ## OUTPUT
+<img width="378" height="282" alt="image" src="https://github.com/user-attachments/assets/b1eaba2d-763f-4d08-b1f6-fd40656e82c3" />
 
 
 ## RESULT
@@ -234,6 +237,10 @@ int main() {
 
 
  ## OUTPUT
+<img width="399" height="701" alt="image" src="https://github.com/user-attachments/assets/da20b675-414b-4fe9-8925-86ff5e0f7e01" />
+
+<img width="378" height="570" alt="image" src="https://github.com/user-attachments/assets/a0a749d7-c277-4956-bf18-83f520dfbc77" />
+
 
  
 
@@ -320,7 +327,8 @@ int main() {
 
 ## OUTPUT
 
- 
+ <img width="338" height="329" alt="image" src="https://github.com/user-attachments/assets/14b89292-1ca9-4076-84e6-15db47c7bf1c" />
+
 
 ## RESULT
 
